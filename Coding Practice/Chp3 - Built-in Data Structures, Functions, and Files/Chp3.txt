@@ -1,0 +1,1 @@
+x for x in open(path) if len(x) > 1
